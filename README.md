@@ -19,12 +19,11 @@
   - 해당 csv파일을 통해 시각화를 진행합니다.
   - ![image](https://github.com/user-attachments/assets/8ea3855f-eea3-450b-bdb0-7831ef4f3c86)
 
-
-![image](https://github.com/user-attachments/assets/504a23d8-d77c-4198-ba12-5a1a6f87de9d)
+Trouble Shooting
   - 키 값을 넣는데 왜 자꾸 config.py파일에 왜 키를 인식할수가 없을까 고민 --> 텍스트로 인식하게 해서 난 오류
   - GPT Prompt Engineering 프롬포트 엔지니어링 하는 과정에서 고난 --> - gpt모델을 튜닝
 
-![image](https://github.com/user-attachments/assets/8368d8d7-ee8a-4f6f-bf6a-177862c25d39)
+향후 계획
   - GPT모델 파인튜닝을 통해 모델을 강화
   - 로드밸런싱 진행
 

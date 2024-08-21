@@ -17,6 +17,9 @@
 ### 4. 시각화
 - 생성된 CSV 파일을 통해 데이터를 시각화합니다.  
   ![Visualization Example](https://github.com/user-attachments/assets/8ea3855f-eea3-450b-bdb0-7831ef4f3c86)
+  
+### 5. 프로세스 예시
+- ![image](https://github.com/user-attachments/assets/3460b980-becb-4da6-8907-9bb38cb8559f)
 
 ## Trouble Shooting
 

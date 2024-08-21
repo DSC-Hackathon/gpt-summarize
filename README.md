@@ -2,8 +2,21 @@
 
 ## 관리자 페이지 구현
 
+### Problems
+- **인구유입**: 지방 인구 소멸화 문제를 해결하기 위해 축제를 활성화하여 인구 유입을 유도할 수 있습니다.
+- **모니터링**: 앱에서 민원을 받고, 관리자 전용 웹을 통해 분석된 인사이트를 제공하여 피드백을 강화할 수 있습니다.
+- **더 나은 플랫폼으로의 확장**: 현재 플랫폼을 더 나은 방향으로 확장할 계획입니다.
+- **꿀잼도시 대전**: 도시의 활성화를 위해 재미있는 요소들을 결합합니다.
+
+### 프로젝트 도구
+- **Jupyter Lab**
+- **VScode**
+- **GitHub**
+- **Slack**
+- **Notion**
+
 ### 1. Flask
-- Flask를 사용하여 관리자가 사용할 수 있는 웹 애플리케이션을 생성하였습니다.
+- Flask를 사용하여 관리자가 사용할 수 있는 웹 애플리케이션을 생성했습니다.
 
 ### 2. GPT (GPT-4 모델)
 - GPT-4 모델을 활용하여 **Prompt Engineering** 과정을 통해 대량의 텍스트를 요약합니다.
@@ -17,9 +30,10 @@
 ### 4. 시각화
 - 생성된 CSV 파일을 통해 데이터를 시각화합니다.  
   ![Visualization Example](https://github.com/user-attachments/assets/8ea3855f-eea3-450b-bdb0-7831ef4f3c86)
-  
+
 ### 5. 프로세스
-- ![image](https://github.com/user-attachments/assets/3460b980-becb-4da6-8907-9bb38cb8559f)
+- 프로젝트의 전체적인 프로세스는 아래와 같습니다.  
+  ![Process Image](https://github.com/user-attachments/assets/3460b980-becb-4da6-8907-9bb38cb8559f)
 
 ## Trouble Shooting
 
